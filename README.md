@@ -1,6 +1,6 @@
-# A Todo App With React and Typescript
-
-<img src="./components/assets/images/todo.png">
+# React Task
+- React
+- Typescript
 
 # Getting Started with Create React App
 
