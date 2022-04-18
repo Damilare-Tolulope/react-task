@@ -1,12 +1,10 @@
-import React, { useState } from 'react';
+import React from 'react';
 import './App.css'
-import data from './components/data.js'
 import Header from './components/Header'
 import Block from './components/Block'
 import Segment from './components/Segment';
 
 const App: React.FC = () => {
-  const [testData] = useState(data)
 
   return (
     <div className='App'>
